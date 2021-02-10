@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    height: 3508px;
+    width: 2484px;
+}
+
+.cv-header h5 {
+    
+    background: #0661FF;
+    color: #ffffff;
+    padding: 40px 10px;
+    text-align: center;
+    font-size: 40px;
+    margin: 0px 0px 100px 0px;
+}
+.cv-body p {
+    color: #1E1E1E;
+    padding:  50px 0px 50px 100px;
+    margin: 50px 0px;
+    background-color: #F2F2F2;
+    font-size: 42px
+
+} 
+@page {
+	margin-top: 0;
+	margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+
+}
